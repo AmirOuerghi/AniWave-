@@ -1,0 +1,83 @@
+[
+    {
+      "title": "Attack on Titan",
+      "genre": "Action, Drama, Fantasy",
+      "episodes": 25,
+      "releaseYear": 2013,
+      "description": "In a world where humanity resides within enormous walled cities to protect themselves from Titans, gigantic humanoid creatures, the story follows Eren Yeager and his friends who join the military to fight the Titans.",
+      "image": "https://static.wikia.nocookie.net/shingekinokyojin/images/d/d8/Attack_on_Titan_Season_1.jpg/revision/latest?cb=20211005182832"
+    },
+    {
+      "title": "My Hero Academia",
+      "genre": "Action, Comedy, Superpower",
+      "episodes": 96,
+      "releaseYear": 2016,
+      "description": "In a world where nearly every human has some form of superpower, or 'quirk,' the story follows Izuku Midoriya, a Quirkless boy who dreams of becoming a hero, as he enrolls in U.A. High School to train and become a hero.",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGZmYjdjN2UtNjAwZi00YmEyLWFhNTEtNjM1OTc5ODg0MGEyXkEyXkFqcGdeQXVyMTA1NjQyNjkw._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "title": "One Piece",
+      "genre": "Action, Adventure, Comedy",
+      "episodes": 1000,
+      "releaseYear": 1999,
+      "description": "Monkey D. Luffy sets out on a journey to find the legendary treasure, 'One Piece,' and become the Pirate King. Along the way, he forms a diverse crew of pirates and faces numerous challenges in the Grand Line.",
+      "image": "https://m.media-amazon.com/images/I/81rEhhwbubL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "Fullmetal Alchemist: Brotherhood",
+      "genre": "Action, Adventure, Drama",
+      "episodes": 64,
+      "releaseYear": 2009,
+      "description": "Two brothers, Edward and Alphonse Elric, use alchemy in their quest to search for the Philosopher's Stone to restore their bodies after a failed alchemical ritual.",
+      "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p12981153_b_v9_aa.jpg"
+    },
+    {
+      "title": "Death Note",
+      "genre": "Mystery, Psychological, Thriller",
+      "episodes": 37,
+      "releaseYear": 2006,
+      "description": "Light Yagami, a high school student, discovers a mysterious notebook called the 'Death Note,' which allows him to kill anyone whose name he writes in it. He sets out to create a utopia free from criminals.",
+      "image": "https://example.com/death-note.jpg"
+    },
+    {
+      "title": "Demon Slayer: Kimetsu no Yaiba",
+      "genre": "Action, Historical, Supernatural",
+      "episodes": 26,
+      "releaseYear": 2019,
+      "description": "Tanjiro Kamado, a young boy, becomes a demon slayer after his family is slaughtered by demons, and his sister Nezuko is turned into a demon. He seeks revenge and a cure for his sister.",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTIxNjk3YjItYmYzMC00ZTdmLTk0NGUtZmNlZTA0NWFkZDMwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg"
+    },
+    {
+      "title": "Cowboy Bebop",
+      "genre": "Action, Adventure, Sci-Fi",
+      "episodes": 26,
+      "releaseYear": 1998,
+      "description": "In a futuristic world where bounty hunters travel through space in pursuit of criminals, the story follows Spike Spiegel and his eclectic crew aboard the spaceship Bebop.",
+      "image": "https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/643588b78d0197001d05f167.jpg"
+    },
+    {
+      "title": "Steins;Gate",
+      "genre": "Sci-Fi, Thriller",
+      "episodes": 24,
+      "releaseYear": 2011,
+      "description": "Rintarou Okabe, a self-proclaimed mad scientist, discovers the means to send messages to the past, leading him and his friends into a complex and thrilling adventure involving time travel.",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjUxMzE4ZDctODNjMS00MzIwLThjNDktODkwYjc5YWU0MDc0XkEyXkFqcGdeQXVyNjc3OTE4Nzk@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "title": "Hunter x Hunter (2011)",
+      "genre": "Action, Adventure, Fantasy",
+      "episodes": 148,
+      "releaseYear": 2011,
+      "description": "Gon Freecss aspires to become a Hunter to find his missing father and experience the world's wonders. Along the way, he befriends other aspiring Hunters and faces challenges in the Hunter Examination.",
+      "image": "https://media.themoviedb.org/t/p/w500/ucpgmUR1h5Te1BYegKItoPjOeF7.jpg"
+    },
+    {
+      "title": "Neon Genesis Evangelion",
+      "genre": "Action, Drama, Mecha",
+      "episodes": 26,
+      "releaseYear": 1995,
+      "description": "In a post-apocalyptic world, teenagers pilot giant mechs to protect Earth from mysterious beings known as Angels. The series explores psychological and existential themes.",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc4YTY0MDUtYWNmMi00NTRiLWE4NmItM2JiMmIzYmEwNGQzXkEyXkFqcGdeQXVyNTkwNzYyODM@._V1_.jpg"
+    }
+  ]
+  
